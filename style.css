@@ -170,7 +170,7 @@ body {
 
 .page1 .img1 {
     width: 55%;
-    background-image: url("images/my-pic1.png");
+    background-image: url("my-pic1.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -189,7 +189,7 @@ body {
 
 .page2 .img2 {
     width: 45%;
-    background-image: url("images/my-pic1.png");
+    background-image: url("my-pic1.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -778,7 +778,7 @@ body {
 }
 .page6 .content6 .row1 .project_img1 {
     padding: 0;
-    background-image: url('/images/project-4.jpg');
+    background-image: url('project-4.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     height: 300px;
@@ -788,7 +788,7 @@ body {
 }
 .page6 .content6 .row1 .project_img2 {
     padding: 0;
-    background-image: url('/images/project-5.jpg');
+    background-image: url('project-5.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     height: 300px;
@@ -803,7 +803,7 @@ body {
 }
 .page6 .content6 .row2 .project_img1 {
     padding: 0;
-    background-image: url('/images/project-1.jpg');
+    background-image: url('project-1.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     height: 300px;
@@ -813,7 +813,7 @@ body {
 }
 .page6 .content6 .row2 .project_img2 {
     padding: 0;
-    background-image: url('/images/project-2.jpg');
+    background-image: url('project-2.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     height: 300px;
@@ -828,7 +828,7 @@ body {
 }
 .page6 .content6 .row3 .project_img1 {
     padding: 0;
-    background-image: url('/images/project-6.jpg');
+    background-image: url('project-6.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     height: 300px;
@@ -838,7 +838,7 @@ body {
 }
 .page6 .content6 .row3 .project_img2 {
     padding: 0;
-    background-image: url('/images/project-3.jpg');
+    background-image: url('project-3.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     height: 300px;
@@ -904,7 +904,7 @@ body {
 .page7 {
     width: 100%;
     margin-bottom: 150px;
-    background-image: url('/images/bg2.jpg');
+    background-image: url('bg2.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -1067,7 +1067,7 @@ body {
 .page8 .contact-us .my-img {
     width: 50%;
     height: 550px;
-    background-image: url('images/my-pic1.png');
+    background-image: url('my-pic1.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -1236,7 +1236,7 @@ textarea {
 
     .page2 .img2 {
         width: 40%;
-        background-image: url("images/my-pic1.png");
+        background-image: url("my-pic1.png");
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
@@ -2532,14 +2532,14 @@ textarea {
 
 @media(max-width:320.98px) {
     .content4 .colum1 .box1 .web-design::after {
-        left: 95px;
+        left: 85px;
     }
 
     .content4 .colum2 .box1 .web-design::after {
-        left: 95px;
+        left: 85px;
     }
 
     .content4 .colum3 .box1 .web-design::after {
-        left: 95px;
+        left: 85px;
     }
 }
