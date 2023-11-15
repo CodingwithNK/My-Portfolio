@@ -193,12 +193,12 @@ button:hover {
     height: 100px;
     top: 450px;
     display: flex;
-    display: none;
 }
 
 #hireWorkBtn {
     margin: auto;
     padding: 5px;
+    display: none;
 }
 
 .centerBtn .buttons .small-hire-btn,
@@ -1152,10 +1152,9 @@ textarea {
         display: none;
     }
 
-    .centerBtn {
-        display: flex;
-    }
-
+#hireWorkBtn{
+  display: block;   
+}
     .page1 .img1 {
         position: relative;
         width: 100%;
