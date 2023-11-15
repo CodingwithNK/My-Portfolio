@@ -1759,8 +1759,10 @@ textarea {
     }
 
     .page7 .content7 .text7 {
-        padding: 50px 10px 50px 10px;
+        padding: 5px;
     }
+    .page7 .content7 .text7 h3{
+        font-size: 32px;
 
     .page8 .content8 .contact-boxes {
         margin: 15px;
