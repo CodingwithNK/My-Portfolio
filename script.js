@@ -23,9 +23,9 @@ function removeClass() {
     document.documentElement.style.setProperty('--box-bg-color', '#DDF6DD')
     document.documentElement.style.setProperty('--paira-font-color', 'grey')
     document.documentElement.style.setProperty('--text-section-bg', '#D4F4D4')
-    document.documentElement.style.setProperty('--navbar-bg-color', '#ABEAAB') // #32CD32
+    document.documentElement.style.setProperty('--navbar-bg-color', '#32CD32') // #32CD32
     document.documentElement.style.setProperty('--contact-box-font-color', '#32CD32')
-    document.getElementsByClassName('bodyColor')[0].style.background = "#ABEAAB"; // #f3edfe 
+    document.getElementsByClassName('bodyColor')[0].style.background = "white"; // #f3edfe 
 
   } else if (addRemoveCls.classList.contains("bi-moon-fill")) {
     addRemoveCls.classList.remove("bi-moon-fill");
